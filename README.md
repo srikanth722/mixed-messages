@@ -17,17 +17,22 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+The purpose of this project is to write a message generator program. Every time a user runs the program, they will get a new, randomized output. To make the program truly random, the message that it outputs will be made up of at least three different pieces of data.
+
+### Project Objectives
+- Build a message generator program using JavaScript
+- Use Git version control
+- Use command line
+- Develop locally on your computer
+
+### Project Prerequisites
+- JavaScript
+- Git and GitHub
+- Command line
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- JavaScript
 
 
 ## Features
