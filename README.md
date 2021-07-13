@@ -12,7 +12,7 @@
 
 
 ## General Information
-The purpose of this project is to write a message generator program. Every time a user runs the program, they will get a new, randomized output. To make the program truly random, the message that it outputs will be made up of at least three different pieces of data.
+The purpose of this project is to write a message generator program. Every time a user runs the program, they will get a new, randomized output. To make the program truly random, the message that it outputs will be made up of at least three different pieces of data. The theme of these messages will resemble that of a Fortune Cookie.
 
 ### Project Objectives
 - Build a message generator program using JavaScript
@@ -35,19 +35,12 @@ Run the script.js file locally or on the Chrome Dev Tools console.
 
 
 ## Project Status
-Project is: _in progress_ 
+Project is: _complete_ 
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
+- Create a nested array to store the message components
+- Create a function to create an array of message components
 
 
 ## Acknowledgements
